@@ -4,23 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0ca7b28-e058-425e-a02f-04b66a813546" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/CT.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bones.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cuda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dicom-image.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/normalize.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UNET-Segmentation-on-CT-Scan-Images-in-TensorFlow-2.0/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/UNET-Segmentation-on-CT-Scan-Images-in-TensorFlow-2.0/data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UNET-Segmentation-on-CT-Scan-Images-in-TensorFlow-2.0/metrics.py" beforeDir="false" afterPath="$PROJECT_DIR$/UNET-Segmentation-on-CT-Scan-Images-in-TensorFlow-2.0/metrics.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UNET-Segmentation-on-CT-Scan-Images-in-TensorFlow-2.0/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/UNET-Segmentation-on-CT-Scan-Images-in-TensorFlow-2.0/train.py" afterDir="false" />
+    <list default="true" id="a0ca7b28-e058-425e-a02f-04b66a813546" name="Changes" comment="123">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +23,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/UNET-Segmentation-on-CT-Scan-Images-in-TensorFlow-2.0" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="5c5a8b04-a26d-408e-90d8-1fa3a9a91e6e" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -50,25 +38,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.bones.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cuda.executor&quot;: &quot;Run&quot;,
-    &quot;Python.data.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dicom-image.executor&quot;: &quot;Run&quot;,
-    &quot;Python.first.executor&quot;: &quot;Run&quot;,
-    &quot;Python.metrics.executor&quot;: &quot;Run&quot;,
-    &quot;Python.model.executor&quot;: &quot;Run&quot;,
-    &quot;Python.normalize.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pat.executor&quot;: &quot;Run&quot;,
-    &quot;Python.risk.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.train.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.bones.executor": "Run",
+    "Python.cuda.executor": "Run",
+    "Python.data.executor": "Run",
+    "Python.dicom-image.executor": "Run",
+    "Python.first.executor": "Run",
+    "Python.metrics.executor": "Run",
+    "Python.model.executor": "Run",
+    "Python.normalize.executor": "Run",
+    "Python.pat.executor": "Run",
+    "Python.risk.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.train.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -85,6 +74,19 @@
       <option name="presentableId" value="Default" />
       <updated>1735321200706</updated>
     </task>
+    <task id="LOCAL-00001" summary="123">
+      <option name="closed" value="true" />
+      <created>1736957585752</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736957585752</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="123" />
+    <option name="LAST_COMMIT_MESSAGE" value="123" />
   </component>
 </project>
